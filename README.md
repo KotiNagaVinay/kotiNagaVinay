@@ -8,7 +8,7 @@
     srcset="https://raw.githubusercontent.com/KotiNagaVinay/KotiNagaVinay/output/github-contribution-grid-snake.svg">
 
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/KotiNagaVinay/KotiNagaVinay/output/github-contribution-grid-snake.svg"
     width="100%">
 </picture>
